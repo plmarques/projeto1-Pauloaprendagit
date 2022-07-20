@@ -1,11 +1,24 @@
 Codigos Basicos GIT
 
-1 - git init = codigo incial
-2 - git status = codigo pra ver status da versão ou git
-3 - git add " " = codigo pra adicionar arquivo unico
-4 - git add . = codigo para adicionar todos os arquivos
-5 - git commit -m " " = codigo para criar a primeira versão (boa pratica de colocar identificação)
-6 - git config --global user.email "@hotmail.com" = configurar email para push
-7 - git push = subir arquivo para o GitHub
-8 - git remote add origin link do repositorio = definir respositorio que firaca o git
-9 - git push --set-upstream origin master = 
+0  - botão direito na pasta "git bash"
+1  - git init = codigo incial
+2  - git status = codigo pra ver status da versão ou git
+3  - git add " " = codigo pra adicionar arquivo unico
+4  - git add . = codigo para adicionar todos os arquivos
+5  - git commit -m " " = codigo para criar uma versão (boa pratica de colocar identificação)
+6  - git config --global user.email "@hotmail.com" = configurar email para push
+7  - git push = subir arquivo para o GitHub
+8  - git remote add origin link do repositorio = definir respositorio que firaca o git
+9  - git push --set-upstream origin master = definir diretorio dentro do repositorio
+10 - git reflog = ver historico 
+11 - git reset --hard (id) =  resetar para a versão anterior do codigo
+12 - git branch = ver quais branchs existem e qual está sendo usada
+13 - git branch (nome da branch) = adicionar branch
+14 - git checkout (nome da branc) = alterar branch
+15 - git merge (nome da branch paralela) = unir codigos branch paralela a principal
+
+ATUALIZAR CODIGO:
+
+1 - git add .
+2 - git commit -m " "
+3 - git push
