@@ -1,2 +1,11 @@
-Meu nome é Paulo.
-Modifiquei a linha para teste.
+Codigos Basicos GIT
+
+1 - git init = codigo incial
+2 - git status = codigo pra ver status da versão ou git
+3 - git add " " = codigo pra adicionar arquivo unico
+4 - git add . = codigo para adicionar todos os arquivos
+5 - git commit -m " " = codigo para criar a primeira versão (boa pratica de colocar identificação)
+6 - git config --global user.email "@hotmail.com" = configurar email para push
+7 - git push = subir arquivo para o GitHub
+8 - git remote add origin link do repositorio = definir respositorio que firaca o git
+9 - git push --set-upstream origin master = 
