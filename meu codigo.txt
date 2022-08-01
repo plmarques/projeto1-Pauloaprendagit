@@ -15,7 +15,8 @@ Codigos Basicos GIT
 12 - git branch = ver quais branchs existem e qual está sendo usada
 13 - git branch (nome da branch) = adicionar branch
 14 - git checkout (nome da branc) = alterar branch
-15 - git merge (nome da branch paralela) = unir codigos branch paralela a principal
+15 - git pull - puchar ultima atualização antes de mergiar 
+16 - git merge (nome da branch paralela) = unir codigos branch paralela a principal
 
 ATUALIZAR CODIGO:
 
